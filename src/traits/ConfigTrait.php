@@ -8,7 +8,6 @@ namespace Lukeluke\Repos\traits;
 trait ConfigTrait
 {
 
-
     /**
      * 获取配置
      *
