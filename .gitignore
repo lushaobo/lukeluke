@@ -1,0 +1,9 @@
+*.DS_Store
+/vendor
+
+!.php-cs-fixer.dist.php
+/.idea
+/composer.lock
+.php-cs-fixer.cache
+.phpunit.result.cache
+/test.php
