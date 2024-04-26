@@ -1,6 +1,6 @@
 <?php
 
-namespace Luke\Repos\traits;
+namespace Lukeluke\Repos\traits;
 
 /**
  * 配置插件

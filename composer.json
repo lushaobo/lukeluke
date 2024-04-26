@@ -1,5 +1,5 @@
 {
-    "name": "luke/repos",
+    "name": "lukeluke/repos",
     "description": "my repos",
     "type": "library",
     "require": {
@@ -9,7 +9,7 @@
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Luke\\Repos\\": "src/"
+            "Lukeluke\\Repos\\": "src/"
         }
     },
     "authors": [
