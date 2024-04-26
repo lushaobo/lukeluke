@@ -42,3 +42,4 @@ trait ConfigTrait
         return $this;
     }
 }
+
